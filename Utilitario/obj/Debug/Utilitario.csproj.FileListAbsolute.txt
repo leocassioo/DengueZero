@@ -1,0 +1,28 @@
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Utilitario\bin\Debug\Utilitario.dll.config
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Utilitario\bin\Debug\Utilitario.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Utilitario\bin\Debug\Utilitario.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Utilitario\bin\Debug\EntityFramework.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Utilitario\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Utilitario\bin\Debug\PostSharp.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Utilitario\bin\Debug\EntityFramework.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Utilitario\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Utilitario\bin\Debug\PostSharp.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Utilitario\bin\Debug\Utilitario.pssym
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Utilitario\obj\Debug\Utilitario.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Utilitario\obj\Debug\Utilitario.dll.postsharp
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Utilitario\obj\Debug\Utilitario.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Utilitario\obj\Debug\Utilitario.pdb
+C:\DengueZero\Utilitario\bin\Debug\Utilitario.dll.config
+C:\DengueZero\Utilitario\bin\Debug\Utilitario.dll
+C:\DengueZero\Utilitario\bin\Debug\Utilitario.pdb
+C:\DengueZero\Utilitario\bin\Debug\EntityFramework.dll
+C:\DengueZero\Utilitario\bin\Debug\EntityFramework.SqlServer.dll
+C:\DengueZero\Utilitario\bin\Debug\PostSharp.dll
+C:\DengueZero\Utilitario\bin\Debug\EntityFramework.xml
+C:\DengueZero\Utilitario\bin\Debug\EntityFramework.SqlServer.xml
+C:\DengueZero\Utilitario\bin\Debug\PostSharp.xml
+C:\DengueZero\Utilitario\bin\Debug\Utilitario.pssym
+C:\DengueZero\Utilitario\obj\Debug\Utilitario.dll.postsharp
+C:\DengueZero\Utilitario\obj\Debug\Utilitario.dll
+C:\DengueZero\Utilitario\obj\Debug\Utilitario.pdb
+C:\DengueZero\Utilitario\obj\Debug\Utilitario.csprojResolveAssemblyReference.cache

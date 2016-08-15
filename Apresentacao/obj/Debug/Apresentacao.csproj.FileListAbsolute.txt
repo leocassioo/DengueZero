@@ -1,0 +1,32 @@
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Apresentacao\bin\Debug\PostSharp.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Apresentacao\bin\Debug\PostSharp.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Apresentacao\bin\Debug\Apresentacao.pssym
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Apresentacao\obj\Debug\Apresentacao.dll.postsharp
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\DengueZero\Apresentacao\bin\Debug\Apresentacao.dll
+C:\DengueZero\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\DengueZero\Apresentacao\bin\Debug\Enumerador.dll
+C:\DengueZero\Apresentacao\bin\Debug\PostSharp.dll
+C:\DengueZero\Apresentacao\bin\Debug\Enumerador.pdb
+C:\DengueZero\Apresentacao\bin\Debug\PostSharp.xml
+C:\DengueZero\Apresentacao\bin\Debug\Apresentacao.pssym
+C:\DengueZero\Apresentacao\obj\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+C:\DengueZero\Apresentacao\obj\Debug\Apresentacao.dll.postsharp
+C:\DengueZero\Apresentacao\obj\Debug\Apresentacao.dll
+C:\DengueZero\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\DengueZero\Apresentacao\bin\Debug\Apresentacao.dll.config
+C:\DengueZero\Apresentacao\bin\Debug\EntityFramework.dll
+C:\DengueZero\Apresentacao\bin\Debug\EntityFramework.SqlServer.dll
+C:\DengueZero\Apresentacao\bin\Debug\EntityFramework.xml
+C:\DengueZero\Apresentacao\bin\Debug\EntityFramework.SqlServer.xml
+C:\denguezero\Apresentacao\bin\Debug\mscorlib.dll
+C:\denguezero\Apresentacao\bin\Debug\System.Net.Http.dll
+C:\denguezero\Apresentacao\bin\Debug\System.Net.Http.xml
+C:\denguezero\Apresentacao\bin\Debug\normidna.nlp
+C:\denguezero\Apresentacao\bin\Debug\normnfc.nlp
+C:\denguezero\Apresentacao\bin\Debug\normnfd.nlp
+C:\denguezero\Apresentacao\bin\Debug\normnfkc.nlp
+C:\denguezero\Apresentacao\bin\Debug\normnfkd.nlp

@@ -1,0 +1,28 @@
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dispenser\bin\Debug\Dispenser.dll.config
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dispenser\bin\Debug\Dispenser.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dispenser\bin\Debug\Dispenser.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dispenser\bin\Debug\EntityFramework.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dispenser\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dispenser\bin\Debug\PostSharp.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dispenser\bin\Debug\EntityFramework.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dispenser\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dispenser\bin\Debug\PostSharp.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dispenser\bin\Debug\Dispenser.pssym
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dispenser\obj\Debug\Dispenser.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dispenser\obj\Debug\Dispenser.dll.postsharp
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dispenser\obj\Debug\Dispenser.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dispenser\obj\Debug\Dispenser.pdb
+C:\DengueZero\Dispenser\bin\Debug\Dispenser.dll.config
+C:\DengueZero\Dispenser\bin\Debug\Dispenser.dll
+C:\DengueZero\Dispenser\bin\Debug\Dispenser.pdb
+C:\DengueZero\Dispenser\bin\Debug\Dispenser.pssym
+C:\DengueZero\Dispenser\bin\Debug\EntityFramework.dll
+C:\DengueZero\Dispenser\bin\Debug\EntityFramework.SqlServer.dll
+C:\DengueZero\Dispenser\bin\Debug\PostSharp.dll
+C:\DengueZero\Dispenser\bin\Debug\EntityFramework.xml
+C:\DengueZero\Dispenser\bin\Debug\EntityFramework.SqlServer.xml
+C:\DengueZero\Dispenser\bin\Debug\PostSharp.xml
+C:\DengueZero\Dispenser\obj\Debug\Dispenser.csprojResolveAssemblyReference.cache
+C:\DengueZero\Dispenser\obj\Debug\Dispenser.dll.postsharp
+C:\DengueZero\Dispenser\obj\Debug\Dispenser.dll
+C:\DengueZero\Dispenser\obj\Debug\Dispenser.pdb

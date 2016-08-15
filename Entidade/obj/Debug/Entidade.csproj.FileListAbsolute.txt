@@ -1,0 +1,38 @@
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Entidade\bin\Debug\Entidade.dll.config
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Entidade\bin\Debug\Entidade.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Entidade\bin\Debug\Entidade.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Entidade\bin\Debug\EntityFramework.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Entidade\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Entidade\bin\Debug\PostSharp.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Entidade\bin\Debug\EntityFramework.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Entidade\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Entidade\bin\Debug\PostSharp.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Entidade\bin\Debug\Entidade.pssym
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Entidade\obj\Debug\Entidade.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Entidade\obj\Debug\Entidade.dll.postsharp
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Entidade\obj\Debug\Entidade.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Entidade\obj\Debug\Entidade.pdb
+C:\DengueZero\Entidade\bin\Debug\Entidade.dll.config
+C:\DengueZero\Entidade\bin\Debug\Entidade.dll
+C:\DengueZero\Entidade\bin\Debug\Entidade.pdb
+C:\DengueZero\Entidade\bin\Debug\EntityFramework.dll
+C:\DengueZero\Entidade\bin\Debug\EntityFramework.SqlServer.dll
+C:\DengueZero\Entidade\bin\Debug\Enumerador.dll
+C:\DengueZero\Entidade\bin\Debug\PostSharp.dll
+C:\DengueZero\Entidade\bin\Debug\Enumerador.pdb
+C:\DengueZero\Entidade\bin\Debug\EntityFramework.xml
+C:\DengueZero\Entidade\bin\Debug\EntityFramework.SqlServer.xml
+C:\DengueZero\Entidade\bin\Debug\PostSharp.xml
+C:\DengueZero\Entidade\bin\Debug\Entidade.pssym
+C:\DengueZero\Entidade\obj\Debug\Entidade.csprojResolveAssemblyReference.cache
+C:\DengueZero\Entidade\obj\Debug\Entidade.dll.postsharp
+C:\DengueZero\Entidade\obj\Debug\Entidade.dll
+C:\DengueZero\Entidade\obj\Debug\Entidade.pdb
+C:\denguezero\Entidade\bin\Debug\mscorlib.dll
+C:\denguezero\Entidade\bin\Debug\System.Net.Http.dll
+C:\denguezero\Entidade\bin\Debug\System.Net.Http.xml
+C:\denguezero\Entidade\bin\Debug\normidna.nlp
+C:\denguezero\Entidade\bin\Debug\normnfc.nlp
+C:\denguezero\Entidade\bin\Debug\normnfd.nlp
+C:\denguezero\Entidade\bin\Debug\normnfkc.nlp
+C:\denguezero\Entidade\bin\Debug\normnfkd.nlp

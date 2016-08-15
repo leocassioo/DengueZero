@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- As 3 meta tags acima *devem* vir em primeiro lugar dentro do `head`; qualquer outro conteúdo deve vir *após* essas tags -->
+    <title>Dengue Zero</title>
+
+    <!-- Bootstrap -->
+    <link href="DengueZero/styles/bootstrap.min.css" rel="stylesheet">
+    <link href="DengueZero/styles/Style.css" rel="stylesheet">
+    <!-- HTML5 shim e Respond.js para suporte no IE8 de elementos HTML5 e media queries -->
+    <!-- ALERTA: Respond.js não funciona se você visualizar uma página file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+
+
+    <div id="topoMenu">
+        <nav class="navbar navbar-inverse">
+            <<div class="container">
+                <ol>
+                    <li class="opcoesTopo">
+                        <span class="glyphicon glyphicon-home icoTopo" aria-hidden="true"></span>
+                        <a class="txtMenu" href="home.html">Inicio</a>
+                    </li>
+                    <li class="opcoesTopo">
+                        <span class="glyphicon glyphicon-user icoTopo" aria-hidden="true"></span>
+                        <a class="txtMenu" href="#">Cadastro Usuário</a>
+                    </li>
+                </ol>
+            </div>
+        </nav>
+    </div>
+
+    <div class="container">
+
+        <nav class="navbar">
+            <h4 id="txtSubMenu">DENGUE ZERO</h4>
+        </nav>
+        <form id="frmCadastroUsuario">
+            <!--Codigo para cadastrar novo usuário-->
+            <h4>CADASTRO DE USUÁRIOS</h4><br />
+            Nome:<input class="iptCadastroUsuario" type="text" name="iptNomeUsuario" id="iptNomeUsuario" /><br /><br />
+            Senha:<input class="iptCadastroUsuario" type="password" name="iptSenha" id="iptSenha" /> <br /><br />
+            Email:<input class="iptCadastroUsuario" type="text" name="iptEmail" id="iptEmail" /> <br /><br />
+            <button class="botaoCadastro" id="btmSalvar">
+                <span class="glyphicon glyphicon-user" aria-hidden="true"></span> Salvar
+            </button>
+            <button class="botaoCadastro" id="btmSalvar">
+                <span class="glyphicon glyphicon-unchecked" aria-hidden="true"></span> Cancelar
+            </button>
+            <br /><br />
+        </form>
+    </div>
+
+
+    <br /><br />
+
+
+    <div class="rodape">
+        <nav class="navbar navbar-inverse">
+            <<div class="container">
+                <ol>
+                    <li class="opcoesTopo">
+                        <a class="txtMenu">Integrantes:</a>
+                    </li>
+                    <li class="opcoesTopo">
+                        <a class="txtMenu">Walisson Andrade, Leonardo de Cássio, Pedro Paulo, Sergio Lins</a>
+                    </li>
+                </ol>
+            </div>
+        </nav>
+    </div>
+
+
+
+
+
+    <!-- jQuery (obrigatório para plugins JavaScript do Bootstrap) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Inclui todos os plugins compilados (abaixo), ou inclua arquivos separadados se necessário -->
+    <script src="js/bootstrap.min.js"></script>
+</body>
+</html>

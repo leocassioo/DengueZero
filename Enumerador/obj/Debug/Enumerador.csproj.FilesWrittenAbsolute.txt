@@ -1,0 +1,11 @@
+/home/leocassioo/Projects/DengueZero/Enumerador/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/leocassioo/Projects/DengueZero/Enumerador/bin/Debug/Enumerador.dll.config
+/home/leocassioo/Projects/DengueZero/Enumerador/bin/Debug/Enumerador.dll.mdb
+/home/leocassioo/Projects/DengueZero/Enumerador/bin/Debug/Enumerador.pdb
+/home/leocassioo/Projects/DengueZero/Enumerador/bin/Debug/Enumerador.dll
+/home/leocassioo/Projects/DengueZero/Enumerador/obj/Debug/Enumerador.dll
+/home/leocassioo/Projects/DengueZero/Enumerador/obj/Debug/Enumerador.dll.mdb
+/home/leocassioo/Projects/DengueZero/Enumerador/obj/Debug/Enumerador.pdb
+/home/leocassioo/Projects/DengueZero/Enumerador/bin/Debug/EntityFramework.dll
+/home/leocassioo/Projects/DengueZero/Enumerador/bin/Debug/EntityFramework.SqlServer.dll
+/home/leocassioo/Projects/DengueZero/Enumerador/bin/Debug/PostSharp.dll

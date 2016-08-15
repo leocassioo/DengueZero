@@ -1,0 +1,740 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rua Vinte e Seis",
+               "short_name" : "R. Vinte e Seis",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cruzeiro do Sul",
+               "short_name" : "Cruzeiro do Sul",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Betim",
+               "short_name" : "Betim",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Betim",
+               "short_name" : "Betim",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minas Gerais",
+               "short_name" : "MG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32672-720",
+               "short_name" : "32672-720",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Vinte e Seis - Cruzeiro do Sul, Betim - MG, 32672-720, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -19.9453587,
+                  "lng" : -44.1823985
+               },
+               "southwest" : {
+                  "lat" : -19.9464637,
+                  "lng" : -44.1829585
+               }
+            },
+            "location" : {
+               "lat" : -19.9459063,
+               "lng" : -44.1826887
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.9445622197085,
+                  "lng" : -44.1813295197085
+               },
+               "southwest" : {
+                  "lat" : -19.9472601802915,
+                  "lng" : -44.1840274802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJPXDT7DLCpgARq5pb-nkP7Jg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Vinte e Oito",
+               "short_name" : "R. Vinte e Oito",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Conjunto Habitacional Bueno Franco",
+               "short_name" : "Conj. Hab. Bueno Franco",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Betim",
+               "short_name" : "Betim",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Betim",
+               "short_name" : "Betim",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minas Gerais",
+               "short_name" : "MG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32672",
+               "short_name" : "32672",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Vinte e Oito, 6 - Conj. Hab. Bueno Franco, Betim - MG, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -19.9464401,
+                  "lng" : -44.1829532
+               },
+               "southwest" : {
+                  "lat" : -19.9464503,
+                  "lng" : -44.1829685
+               }
+            },
+            "location" : {
+               "lat" : -19.9464401,
+               "lng" : -44.1829532
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.9450962197085,
+                  "lng" : -44.1816118697085
+               },
+               "southwest" : {
+                  "lat" : -19.9477941802915,
+                  "lng" : -44.1843098302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EkBSLiBWaW50ZSBlIE9pdG8sIDYgLSBDb25qLiBIYWIuIEJ1ZW5vIEZyYW5jbywgQmV0aW0gLSBNRywgQnJhc2ls",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Vinte e Três",
+               "short_name" : "R. Vinte e Três",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Conjunto Habitacional Bueno Franco",
+               "short_name" : "Conj. Hab. Bueno Franco",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Betim",
+               "short_name" : "Betim",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Betim",
+               "short_name" : "Betim",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minas Gerais",
+               "short_name" : "MG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32605",
+               "short_name" : "32605",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Vinte e Três, 6 - Conj. Hab. Bueno Franco, Betim - MG, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -19.9438953,
+                  "lng" : -44.1834436
+               },
+               "southwest" : {
+                  "lat" : -19.9439005,
+                  "lng" : -44.1834615
+               }
+            },
+            "location" : {
+               "lat" : -19.9438953,
+               "lng" : -44.1834615
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.94254891970849,
+                  "lng" : -44.1821035697085
+               },
+               "southwest" : {
+                  "lat" : -19.9452468802915,
+                  "lng" : -44.1848015302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EkFSLiBWaW50ZSBlIFRyw6pzLCA2IC0gQ29uai4gSGFiLiBCdWVubyBGcmFuY28sIEJldGltIC0gTUcsIEJyYXNpbA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Vinte e Dois",
+               "short_name" : "R. Vinte e Dois",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Conjunto Habitacional Bueno Franco",
+               "short_name" : "Conj. Hab. Bueno Franco",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Betim",
+               "short_name" : "Betim",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Betim",
+               "short_name" : "Betim",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minas Gerais",
+               "short_name" : "MG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32605",
+               "short_name" : "32605",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Vinte e Dois, 6 - Conj. Hab. Bueno Franco, Betim - MG, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -19.9435633,
+                  "lng" : -44.183838
+               },
+               "southwest" : {
+                  "lat" : -19.9435688,
+                  "lng" : -44.1838558
+               }
+            },
+            "location" : {
+               "lat" : -19.9435633,
+               "lng" : -44.1838558
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.94221706970849,
+                  "lng" : -44.1824979197085
+               },
+               "southwest" : {
+                  "lat" : -19.9449150302915,
+                  "lng" : -44.1851958802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EkBSLiBWaW50ZSBlIERvaXMsIDYgLSBDb25qLiBIYWIuIEJ1ZW5vIEZyYW5jbywgQmV0aW0gLSBNRywgQnJhc2ls",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Vinte e Quatro",
+               "short_name" : "R. Vinte e Quatro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Conjunto Habitacional Bueno Franco",
+               "short_name" : "Conj. Hab. Bueno Franco",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Betim",
+               "short_name" : "Betim",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Betim",
+               "short_name" : "Betim",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minas Gerais",
+               "short_name" : "MG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32605",
+               "short_name" : "32605",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Vinte e Quatro, 6 - Conj. Hab. Bueno Franco, Betim - MG, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -19.9446279,
+               "lng" : -44.1832687
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.9432789197085,
+                  "lng" : -44.1819197197085
+               },
+               "southwest" : {
+                  "lat" : -19.9459768802915,
+                  "lng" : -44.1846176802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJIYl6WjLCpgARXN7m1Mybf4s",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Vinte e Nove",
+               "short_name" : "R. Vinte e Nove",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Itacolomi",
+               "short_name" : "Itacolomi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Betim",
+               "short_name" : "Betim",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Betim",
+               "short_name" : "Betim",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minas Gerais",
+               "short_name" : "MG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32672-645",
+               "short_name" : "32672-645",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Vinte e Nove, 6 - Itacolomi, Betim - MG, 32672-645, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -19.9327795,
+                  "lng" : -44.1730403
+               },
+               "southwest" : {
+                  "lat" : -19.9327933,
+                  "lng" : -44.173052
+               }
+            },
+            "location" : {
+               "lat" : -19.9327933,
+               "lng" : -44.1730403
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.9314374197085,
+                  "lng" : -44.1716971697085
+               },
+               "southwest" : {
+                  "lat" : -19.9341353802915,
+                  "lng" : -44.1743951302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ej1SLiBWaW50ZSBlIE5vdmUsIDYgLSBJdGFjb2xvbWksIEJldGltIC0gTUcsIDMyNjcyLTY0NSwgQnJhc2ls",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Vinte e Cinco",
+               "short_name" : "R. Vinte e Cinco",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Conjunto Habitacional Jalila Conceicao Pedrosa",
+               "short_name" : "Conj. Hab. Jalila Conceicao Pedrosa",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Betim",
+               "short_name" : "Betim",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Betim",
+               "short_name" : "Betim",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minas Gerais",
+               "short_name" : "MG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32672-428",
+               "short_name" : "32672-428",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Vinte e Cinco, 6 - Conj. Hab. Jalila Conceicao Pedrosa, Betim - MG, 32672-428, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -19.9309747,
+                  "lng" : -44.1730171
+               },
+               "southwest" : {
+                  "lat" : -19.930992,
+                  "lng" : -44.1730208
+               }
+            },
+            "location" : {
+               "lat" : -19.930992,
+               "lng" : -44.1730171
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.9296343697085,
+                  "lng" : -44.1716699697085
+               },
+               "southwest" : {
+                  "lat" : -19.9323323302915,
+                  "lng" : -44.17436793029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ElhSLiBWaW50ZSBlIENpbmNvLCA2IC0gQ29uai4gSGFiLiBKYWxpbGEgQ29uY2VpY2FvIFBlZHJvc2EsIEJldGltIC0gTUcsIDMyNjcyLTQyOCwgQnJhc2ls",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Vinte e Quatro",
+               "short_name" : "R. Vinte e Quatro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cruzeiro do Sul",
+               "short_name" : "Cruzeiro do Sul",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Betim",
+               "short_name" : "Betim",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Betim",
+               "short_name" : "Betim",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minas Gerais",
+               "short_name" : "MG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32672",
+               "short_name" : "32672",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Vinte e Quatro, 6 - Cruzeiro do Sul, Betim - MG, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -19.9311979,
+                  "lng" : -44.1689698
+               },
+               "southwest" : {
+                  "lat" : -19.9312042,
+                  "lng" : -44.1689873
+               }
+            },
+            "location" : {
+               "lat" : -19.9312042,
+               "lng" : -44.1689698
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.9298520697085,
+                  "lng" : -44.1676295697085
+               },
+               "southwest" : {
+                  "lat" : -19.9325500302915,
+                  "lng" : -44.17032753029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjpSLiBWaW50ZSBlIFF1YXRybywgNiAtIENydXplaXJvIGRvIFN1bCwgQmV0aW0gLSBNRywgQnJhc2ls",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Vinte e Três",
+               "short_name" : "R. Vinte e Três",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cruzeiro do Sul",
+               "short_name" : "Cruzeiro do Sul",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Betim",
+               "short_name" : "Betim",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Betim",
+               "short_name" : "Betim",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minas Gerais",
+               "short_name" : "MG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32658",
+               "short_name" : "32658",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Vinte e Três, 6 - Cruzeiro do Sul, Betim - MG, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -19.9313008,
+                  "lng" : -44.1682673
+               },
+               "southwest" : {
+                  "lat" : -19.9313072,
+                  "lng" : -44.1682848
+               }
+            },
+            "location" : {
+               "lat" : -19.9313072,
+               "lng" : -44.1682673
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.92995501970849,
+                  "lng" : -44.1669270697085
+               },
+               "southwest" : {
+                  "lat" : -19.9326529802915,
+                  "lng" : -44.1696250302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjlSLiBWaW50ZSBlIFRyw6pzLCA2IC0gQ3J1emVpcm8gZG8gU3VsLCBCZXRpbSAtIE1HLCBCcmFzaWw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Vinte e Dois",
+               "short_name" : "R. Vinte e Dois",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cruzeiro do Sul",
+               "short_name" : "Cruzeiro do Sul",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Betim",
+               "short_name" : "Betim",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Betim",
+               "short_name" : "Betim",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minas Gerais",
+               "short_name" : "MG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32672-728",
+               "short_name" : "32672-728",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Vinte e Dois, 6 - Cruzeiro do Sul, Betim - MG, 32672-728, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -19.9269958,
+                  "lng" : -44.1812372
+               },
+               "southwest" : {
+                  "lat" : -19.9270089,
+                  "lng" : -44.1812497
+               }
+            },
+            "location" : {
+               "lat" : -19.9270089,
+               "lng" : -44.1812372
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.9256533697085,
+                  "lng" : -44.17989446970849
+               },
+               "southwest" : {
+                  "lat" : -19.92835133029151,
+                  "lng" : -44.18259243029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EkNSLiBWaW50ZSBlIERvaXMsIDYgLSBDcnV6ZWlybyBkbyBTdWwsIEJldGltIC0gTUcsIDMyNjcyLTcyOCwgQnJhc2ls",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

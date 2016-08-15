@@ -1,0 +1,34 @@
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Enumerador\bin\Debug\Enumerador.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Enumerador\bin\Debug\Enumerador.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Enumerador\bin\Debug\PostSharp.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Enumerador\bin\Debug\PostSharp.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Enumerador\bin\Debug\Enumerador.pssym
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Enumerador\obj\Debug\Enumerador.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Enumerador\obj\Debug\Enumerador.dll.postsharp
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Enumerador\obj\Debug\Enumerador.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Enumerador\obj\Debug\Enumerador.pdb
+C:\DengueZero\Enumerador\bin\Debug\Enumerador.dll.config
+C:\DengueZero\Enumerador\bin\Debug\Enumerador.dll
+C:\DengueZero\Enumerador\bin\Debug\Enumerador.pdb
+C:\DengueZero\Enumerador\bin\Debug\Enumerador.pssym
+C:\DengueZero\Enumerador\bin\Debug\EntityFramework.dll
+C:\DengueZero\Enumerador\bin\Debug\EntityFramework.SqlServer.dll
+C:\DengueZero\Enumerador\bin\Debug\PostSharp.dll
+C:\DengueZero\Enumerador\bin\Debug\EntityFramework.xml
+C:\DengueZero\Enumerador\bin\Debug\EntityFramework.SqlServer.xml
+C:\DengueZero\Enumerador\bin\Debug\PostSharp.xml
+C:\DengueZero\Enumerador\obj\Debug\Enumerador.csprojResolveAssemblyReference.cache
+C:\DengueZero\Enumerador\obj\Debug\Enumerador.dll.postsharp
+C:\DengueZero\Enumerador\obj\Debug\Enumerador.dll
+C:\DengueZero\Enumerador\obj\Debug\Enumerador.pdb
+<<<<<<< HEAD
+=======
+C:\denguezero\Enumerador\bin\Debug\mscorlib.dll
+C:\denguezero\Enumerador\bin\Debug\System.Net.Http.dll
+C:\denguezero\Enumerador\bin\Debug\System.Net.Http.xml
+C:\denguezero\Enumerador\bin\Debug\normidna.nlp
+C:\denguezero\Enumerador\bin\Debug\normnfc.nlp
+C:\denguezero\Enumerador\bin\Debug\normnfd.nlp
+C:\denguezero\Enumerador\bin\Debug\normnfkc.nlp
+C:\denguezero\Enumerador\bin\Debug\normnfkd.nlp
+>>>>>>> 21a1d9d7b788db1148b25f473e48d703ed21163e

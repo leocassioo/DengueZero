@@ -1,0 +1,15 @@
+/home/leocassioo/Projects/DengueZero/Excecao/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/leocassioo/Projects/DengueZero/Excecao/obj/Debug/Excecao.GestorContexto.resources
+/home/leocassioo/Projects/DengueZero/Excecao/bin/Debug/Excecao.dll.config
+/home/leocassioo/Projects/DengueZero/Excecao/bin/Debug/Excecao.dll.mdb
+/home/leocassioo/Projects/DengueZero/Excecao/bin/Debug/Excecao.pdb
+/home/leocassioo/Projects/DengueZero/Excecao/bin/Debug/Excecao.dll
+/home/leocassioo/Projects/DengueZero/Excecao/obj/Debug/Excecao.dll
+/home/leocassioo/Projects/DengueZero/Excecao/obj/Debug/Excecao.dll.mdb
+/home/leocassioo/Projects/DengueZero/Excecao/obj/Debug/Excecao.pdb
+/home/leocassioo/Projects/DengueZero/Excecao/bin/Debug/EntityFramework.dll
+/home/leocassioo/Projects/DengueZero/Excecao/bin/Debug/EntityFramework.SqlServer.dll
+/home/leocassioo/Projects/DengueZero/Excecao/bin/Debug/PostSharp.dll
+/home/leocassioo/Projects/DengueZero/Excecao/bin/Debug/Enumerador.dll
+/home/leocassioo/Projects/DengueZero/Excecao/bin/Debug/Enumerador.dll.mdb
+/home/leocassioo/Projects/DengueZero/Excecao/bin/Debug/Enumerador.pdb

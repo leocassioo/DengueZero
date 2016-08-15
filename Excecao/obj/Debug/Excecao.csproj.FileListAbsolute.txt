@@ -1,0 +1,39 @@
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Excecao\bin\Debug\Excecao.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Excecao\bin\Debug\Excecao.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Excecao\bin\Debug\Enumerador.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Excecao\bin\Debug\PostSharp.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Excecao\bin\Debug\Enumerador.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Excecao\bin\Debug\PostSharp.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Excecao\bin\Debug\Excecao.pssym
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Excecao\obj\Debug\Excecao.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Excecao\obj\Debug\Excecao.GestorContexto.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Excecao\obj\Debug\Excecao.csproj.GenerateResource.Cache
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Excecao\obj\Debug\Excecao.dll.postsharp
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Excecao\obj\Debug\Excecao.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Excecao\obj\Debug\Excecao.pdb
+C:\DengueZero\Excecao\bin\Debug\Excecao.dll
+C:\DengueZero\Excecao\bin\Debug\Excecao.pdb
+C:\DengueZero\Excecao\bin\Debug\Enumerador.dll
+C:\DengueZero\Excecao\bin\Debug\PostSharp.dll
+C:\DengueZero\Excecao\bin\Debug\Enumerador.pdb
+C:\DengueZero\Excecao\bin\Debug\PostSharp.xml
+C:\DengueZero\Excecao\bin\Debug\Excecao.pssym
+C:\DengueZero\Excecao\obj\Debug\Excecao.csprojResolveAssemblyReference.cache
+C:\DengueZero\Excecao\obj\Debug\Excecao.GestorContexto.resources
+C:\DengueZero\Excecao\obj\Debug\Excecao.csproj.GenerateResource.Cache
+C:\DengueZero\Excecao\obj\Debug\Excecao.dll.postsharp
+C:\DengueZero\Excecao\obj\Debug\Excecao.dll
+C:\DengueZero\Excecao\obj\Debug\Excecao.pdb
+C:\DengueZero\Excecao\bin\Debug\Excecao.dll.config
+C:\DengueZero\Excecao\bin\Debug\EntityFramework.dll
+C:\DengueZero\Excecao\bin\Debug\EntityFramework.SqlServer.dll
+C:\DengueZero\Excecao\bin\Debug\EntityFramework.xml
+C:\DengueZero\Excecao\bin\Debug\EntityFramework.SqlServer.xml
+C:\denguezero\Excecao\bin\Debug\mscorlib.dll
+C:\denguezero\Excecao\bin\Debug\System.Net.Http.dll
+C:\denguezero\Excecao\bin\Debug\System.Net.Http.xml
+C:\denguezero\Excecao\bin\Debug\normidna.nlp
+C:\denguezero\Excecao\bin\Debug\normnfc.nlp
+C:\denguezero\Excecao\bin\Debug\normnfd.nlp
+C:\denguezero\Excecao\bin\Debug\normnfkc.nlp
+C:\denguezero\Excecao\bin\Debug\normnfkd.nlp

@@ -1,0 +1,82 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPageWeb.master.cs" Inherits="DengueZero.MasterPageWeb" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Dengue Zero</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="html5up-arcana/assets/css/main.css" />
+    <link type="text/css" rel="stylesheet" href="styles/bootstrap.min.css" />
+    <link type="text/css" rel="stylesheet" href="styles/Style.css" />
+    <script type="text/javascript" src="js/jquery-2.2.0.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/jquery.validate.js"></script>
+    <script src="html5up-arcana/assets/js/jquery.min.js"></script>
+    <script src="html5up-arcana/assets/js/jquery.dropotron.min.js"></script>
+    <script src="html5up-arcana/assets/js/skel.min.js"></script>
+    <script src="html5up-arcana/assets/js/util.js"></script>
+    <script src="html5up-arcana/assets/js/main.js"></script>
+    <script type="text/javascript" src="js/mapa.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body ondragstart="return false;" ondrop="return false;">
+    <form id="formMasterPage" runat="server">
+        <asp:ScriptManager ID="scpManager" runat="server"></asp:ScriptManager>
+
+        <div id="page-wrapper">
+
+            <!-- Header -->
+            <div id="header">
+
+                <!-- Logo -->
+                <h1><a href="MenuInicial.aspx" id="logo">Dengue Zero</a></h1>
+
+                <!-- Nav -->
+                <nav id="nav">
+                    <ul>
+                        <li class="current"><a href="MenuInicial.aspx">Início</a></li>
+                        <li><a href="#prevencao">O que Fazer</a></li>
+                        <li><a href="#agindo">Agindo Contra Dengue</a></li>
+                    </ul>
+                </nav>
+            </div>
+
+            <!-- Bootstrap Modal Dialog -->
+            <div class="modal fade" id="myModal" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <asp:UpdatePanel ID="upModal" runat="server" ChildrenAsTriggers="false" UpdateMode="Conditional">
+                        <ContentTemplate>
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                    <h4 class="modal-title">
+                                        <asp:Label ID="lblTituloModal" runat="server" Text=""></asp:Label></h4>
+                                </div>
+                                <div class="modal-body">
+                                    <asp:Image ID="imgException" Width="60px" Height="60px" runat="server"></asp:Image>
+                                    <asp:Label ID="lblModalBody" runat="server" Text=""></asp:Label>
+                                    <div id="divDetalhes" class="espaco-linha-modal">
+                                        <span id="spnExpandir" class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+                                        <asp:Label ID="lblTituloDetalhe" runat="server" Text="Mais Detalhes"></asp:Label>
+                                    </div>
+                                    <div class="janela-modal" hidden="hidden">
+                                        <asp:Label ID="lblDetalhesException" runat="server"></asp:Label>
+                                    </div>
+                                </div>
+                                <div class="modal-footer">
+                                    <button class="btn btn-info" data-dismiss="modal" aria-hidden="true">Ok</button>
+                                </div>
+                            </div>
+                        </ContentTemplate>
+                    </asp:UpdatePanel>
+                </div>
+            </div>
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

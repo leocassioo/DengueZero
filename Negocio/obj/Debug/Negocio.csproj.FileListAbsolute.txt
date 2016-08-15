@@ -1,0 +1,57 @@
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Negocio\bin\Debug\Negocio.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Negocio\bin\Debug\PostSharp.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Negocio\bin\Debug\PostSharp.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Negocio\bin\Debug\Negocio.pssym
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Negocio\obj\Debug\Negocio.dll.postsharp
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Negocio\obj\Debug\Negocio.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Negocio\obj\Debug\Negocio.pdb
+C:\DengueZero\Negocio\bin\Debug\Negocio.dll.config
+C:\DengueZero\Negocio\bin\Debug\Negocio.dll
+C:\DengueZero\Negocio\bin\Debug\Negocio.pdb
+C:\DengueZero\Negocio\bin\Debug\EntityFramework.dll
+C:\DengueZero\Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\DengueZero\Negocio\bin\Debug\PostSharp.dll
+C:\DengueZero\Negocio\bin\Debug\EntityFramework.xml
+C:\DengueZero\Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\DengueZero\Negocio\bin\Debug\PostSharp.xml
+C:\DengueZero\Negocio\bin\Debug\Negocio.pssym
+C:\DengueZero\Negocio\obj\Debug\Negocio.dll.postsharp
+C:\DengueZero\Negocio\obj\Debug\Negocio.dll
+C:\DengueZero\Negocio\obj\Debug\Negocio.pdb
+C:\DengueZero\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\DengueZero\Negocio\bin\Debug\Apresentacao.dll
+C:\DengueZero\Negocio\bin\Debug\Criptografia.dll
+C:\DengueZero\Negocio\bin\Debug\Dados.dll
+C:\DengueZero\Negocio\bin\Debug\DispenserAplicacao.dll
+C:\DengueZero\Negocio\bin\Debug\Entidade.dll
+C:\DengueZero\Negocio\bin\Debug\Enumerador.dll
+C:\DengueZero\Negocio\bin\Debug\Excecao.dll
+C:\DengueZero\Negocio\bin\Debug\Microsoft.Practices.Unity.dll
+C:\DengueZero\Negocio\bin\Debug\WebActivatorEx.dll
+C:\DengueZero\Negocio\bin\Debug\Microsoft.Practices.Unity.Mvc.dll
+C:\DengueZero\Negocio\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\DengueZero\Negocio\bin\Debug\Apresentacao.pdb
+C:\DengueZero\Negocio\bin\Debug\Criptografia.pdb
+C:\DengueZero\Negocio\bin\Debug\Dados.pdb
+C:\DengueZero\Negocio\bin\Debug\DispenserAplicacao.pdb
+C:\DengueZero\Negocio\bin\Debug\Entidade.pdb
+C:\DengueZero\Negocio\bin\Debug\Enumerador.pdb
+C:\DengueZero\Negocio\bin\Debug\Excecao.pdb
+C:\DengueZero\Negocio\bin\Debug\Microsoft.Practices.Unity.xml
+C:\DengueZero\Negocio\bin\Debug\Microsoft.Practices.Unity.Mvc.xml
+C:\DengueZero\Negocio\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\DengueZero\Negocio\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\denguezero\Negocio\bin\Debug\mscorlib.dll
+C:\denguezero\Negocio\bin\Debug\System.Net.Http.dll
+C:\denguezero\Negocio\bin\Debug\System.Net.Http.xml
+C:\denguezero\Negocio\bin\Debug\normidna.nlp
+C:\denguezero\Negocio\bin\Debug\normnfc.nlp
+C:\denguezero\Negocio\bin\Debug\normnfd.nlp
+C:\denguezero\Negocio\bin\Debug\normnfkc.nlp
+C:\denguezero\Negocio\bin\Debug\normnfkd.nlp

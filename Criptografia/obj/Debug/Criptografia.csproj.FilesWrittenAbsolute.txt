@@ -1,0 +1,17 @@
+/home/leocassioo/Projects/DengueZero/Criptografia/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/leocassioo/Projects/DengueZero/Criptografia/bin/Debug/Criptografia.dll.config
+/home/leocassioo/Projects/DengueZero/Criptografia/bin/Debug/Criptografia.dll.mdb
+/home/leocassioo/Projects/DengueZero/Criptografia/bin/Debug/Criptografia.pdb
+/home/leocassioo/Projects/DengueZero/Criptografia/bin/Debug/Criptografia.dll
+/home/leocassioo/Projects/DengueZero/Criptografia/obj/Debug/Criptografia.dll
+/home/leocassioo/Projects/DengueZero/Criptografia/obj/Debug/Criptografia.dll.mdb
+/home/leocassioo/Projects/DengueZero/Criptografia/obj/Debug/Criptografia.pdb
+/home/leocassioo/Projects/DengueZero/Criptografia/bin/Debug/EntityFramework.dll
+/home/leocassioo/Projects/DengueZero/Criptografia/bin/Debug/EntityFramework.SqlServer.dll
+/home/leocassioo/Projects/DengueZero/Criptografia/bin/Debug/PostSharp.dll
+/home/leocassioo/Projects/DengueZero/Criptografia/bin/Debug/Enumerador.dll
+/home/leocassioo/Projects/DengueZero/Criptografia/bin/Debug/Enumerador.dll.mdb
+/home/leocassioo/Projects/DengueZero/Criptografia/bin/Debug/Enumerador.pdb
+/home/leocassioo/Projects/DengueZero/Criptografia/bin/Debug/Excecao.dll
+/home/leocassioo/Projects/DengueZero/Criptografia/bin/Debug/Excecao.dll.mdb
+/home/leocassioo/Projects/DengueZero/Criptografia/bin/Debug/Excecao.pdb

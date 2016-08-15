@@ -1,0 +1,14 @@
+/home/leocassioo/Projects/DengueZero/Apresentacao/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/leocassioo/Projects/DengueZero/Apresentacao/bin/Debug/Apresentacao.dll.config
+/home/leocassioo/Projects/DengueZero/Apresentacao/bin/Debug/Apresentacao.dll.mdb
+/home/leocassioo/Projects/DengueZero/Apresentacao/bin/Debug/Apresentacao.pdb
+/home/leocassioo/Projects/DengueZero/Apresentacao/bin/Debug/Apresentacao.dll
+/home/leocassioo/Projects/DengueZero/Apresentacao/obj/Debug/Apresentacao.dll
+/home/leocassioo/Projects/DengueZero/Apresentacao/obj/Debug/Apresentacao.dll.mdb
+/home/leocassioo/Projects/DengueZero/Apresentacao/obj/Debug/Apresentacao.pdb
+/home/leocassioo/Projects/DengueZero/Apresentacao/bin/Debug/EntityFramework.dll
+/home/leocassioo/Projects/DengueZero/Apresentacao/bin/Debug/EntityFramework.SqlServer.dll
+/home/leocassioo/Projects/DengueZero/Apresentacao/bin/Debug/PostSharp.dll
+/home/leocassioo/Projects/DengueZero/Apresentacao/bin/Debug/Enumerador.dll
+/home/leocassioo/Projects/DengueZero/Apresentacao/bin/Debug/Enumerador.dll.mdb
+/home/leocassioo/Projects/DengueZero/Apresentacao/bin/Debug/Enumerador.pdb

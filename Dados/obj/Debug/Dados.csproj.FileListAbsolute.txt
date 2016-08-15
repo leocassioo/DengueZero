@@ -1,0 +1,63 @@
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dados\bin\Debug\Dados.dll.config
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dados\bin\Debug\Dados.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dados\bin\Debug\Dados.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dados\bin\Debug\Criptografia.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dados\bin\Debug\Dispenser.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dados\bin\Debug\Entidade.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dados\bin\Debug\EntityFramework.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dados\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dados\bin\Debug\Enumerador.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dados\bin\Debug\Excecao.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dados\bin\Debug\PostSharp.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dados\bin\Debug\Utilitario.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dados\bin\Debug\Criptografia.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dados\bin\Debug\Dispenser.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dados\bin\Debug\Entidade.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dados\bin\Debug\Enumerador.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dados\bin\Debug\Excecao.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dados\bin\Debug\Utilitario.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dados\bin\Debug\EntityFramework.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dados\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dados\bin\Debug\PostSharp.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dados\bin\Debug\Dados.pssym
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dados\obj\Debug\Dados.dll.postsharp
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dados\obj\Debug\Dados.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Dados\obj\Debug\Dados.pdb
+C:\DengueZero\Dados\bin\Debug\Dados.dll.config
+C:\DengueZero\Dados\bin\Debug\Dados.dll
+C:\DengueZero\Dados\bin\Debug\Dados.pdb
+C:\DengueZero\Dados\bin\Debug\Criptografia.dll
+C:\DengueZero\Dados\bin\Debug\Entidade.dll
+C:\DengueZero\Dados\bin\Debug\EntityFramework.dll
+C:\DengueZero\Dados\bin\Debug\EntityFramework.SqlServer.dll
+C:\DengueZero\Dados\bin\Debug\Enumerador.dll
+C:\DengueZero\Dados\bin\Debug\Excecao.dll
+C:\DengueZero\Dados\bin\Debug\PostSharp.dll
+C:\DengueZero\Dados\bin\Debug\Criptografia.pdb
+C:\DengueZero\Dados\bin\Debug\Entidade.pdb
+C:\DengueZero\Dados\bin\Debug\Enumerador.pdb
+C:\DengueZero\Dados\bin\Debug\Excecao.pdb
+C:\DengueZero\Dados\bin\Debug\EntityFramework.xml
+C:\DengueZero\Dados\bin\Debug\EntityFramework.SqlServer.xml
+C:\DengueZero\Dados\bin\Debug\PostSharp.xml
+C:\DengueZero\Dados\bin\Debug\Dados.pssym
+C:\DengueZero\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+C:\DengueZero\Dados\obj\Debug\Dados.dll.postsharp
+C:\DengueZero\Dados\obj\Debug\Dados.dll
+C:\DengueZero\Dados\obj\Debug\Dados.pdb
+C:\DengueZero\Dados\obj\Debug\Dados.Migrations.Migration_AtualizacaoDB1.resources
+C:\DengueZero\Dados\obj\Debug\Dados.csproj.GenerateResource.Cache
+C:\DengueZero\Dados\obj\Debug\Dados.Migrations.Migration_AtualizacaoDB2.resources
+C:\DengueZero\Dados\obj\Debug\Dados.Migrations.Migration_AtualizacaoDB3.resources
+<<<<<<< HEAD
+=======
+C:\denguezero\Dados\bin\Debug\mscorlib.dll
+C:\denguezero\Dados\bin\Debug\System.Net.Http.dll
+C:\denguezero\Dados\bin\Debug\System.Net.Http.xml
+C:\denguezero\Dados\bin\Debug\normidna.nlp
+C:\denguezero\Dados\bin\Debug\normnfc.nlp
+C:\denguezero\Dados\bin\Debug\normnfd.nlp
+C:\denguezero\Dados\bin\Debug\normnfkc.nlp
+C:\denguezero\Dados\bin\Debug\normnfkd.nlp
+>>>>>>> 21a1d9d7b788db1148b25f473e48d703ed21163e

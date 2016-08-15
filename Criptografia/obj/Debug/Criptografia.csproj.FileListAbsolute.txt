@@ -1,0 +1,41 @@
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Criptografia\bin\Debug\Criptografia.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Criptografia\bin\Debug\Criptografia.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Criptografia\bin\Debug\Enumerador.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Criptografia\bin\Debug\Excecao.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Criptografia\bin\Debug\PostSharp.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Criptografia\bin\Debug\Utilitario.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Criptografia\bin\Debug\Enumerador.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Criptografia\bin\Debug\Excecao.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Criptografia\bin\Debug\Utilitario.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Criptografia\bin\Debug\PostSharp.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Criptografia\bin\Debug\Criptografia.pssym
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Criptografia\obj\Debug\Criptografia.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Criptografia\obj\Debug\Criptografia.dll.postsharp
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Criptografia\obj\Debug\Criptografia.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Criptografia\obj\Debug\Criptografia.pdb
+C:\DengueZero\Criptografia\bin\Debug\Criptografia.dll
+C:\DengueZero\Criptografia\bin\Debug\Criptografia.pdb
+C:\DengueZero\Criptografia\bin\Debug\Enumerador.dll
+C:\DengueZero\Criptografia\bin\Debug\Excecao.dll
+C:\DengueZero\Criptografia\bin\Debug\PostSharp.dll
+C:\DengueZero\Criptografia\bin\Debug\Enumerador.pdb
+C:\DengueZero\Criptografia\bin\Debug\Excecao.pdb
+C:\DengueZero\Criptografia\bin\Debug\PostSharp.xml
+C:\DengueZero\Criptografia\bin\Debug\Criptografia.pssym
+C:\DengueZero\Criptografia\obj\Debug\Criptografia.csprojResolveAssemblyReference.cache
+C:\DengueZero\Criptografia\obj\Debug\Criptografia.dll.postsharp
+C:\DengueZero\Criptografia\obj\Debug\Criptografia.dll
+C:\DengueZero\Criptografia\obj\Debug\Criptografia.pdb
+C:\DengueZero\Criptografia\bin\Debug\Criptografia.dll.config
+C:\DengueZero\Criptografia\bin\Debug\EntityFramework.dll
+C:\DengueZero\Criptografia\bin\Debug\EntityFramework.SqlServer.dll
+C:\DengueZero\Criptografia\bin\Debug\EntityFramework.xml
+C:\DengueZero\Criptografia\bin\Debug\EntityFramework.SqlServer.xml
+C:\denguezero\Criptografia\bin\Debug\mscorlib.dll
+C:\denguezero\Criptografia\bin\Debug\System.Net.Http.dll
+C:\denguezero\Criptografia\bin\Debug\System.Net.Http.xml
+C:\denguezero\Criptografia\bin\Debug\normidna.nlp
+C:\denguezero\Criptografia\bin\Debug\normnfc.nlp
+C:\denguezero\Criptografia\bin\Debug\normnfd.nlp
+C:\denguezero\Criptografia\bin\Debug\normnfkc.nlp
+C:\denguezero\Criptografia\bin\Debug\normnfkd.nlp

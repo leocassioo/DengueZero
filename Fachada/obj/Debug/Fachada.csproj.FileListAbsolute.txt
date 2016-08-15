@@ -1,0 +1,27 @@
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Fachada\bin\Debug\Fachada.dll.config
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Fachada\bin\Debug\Fachada.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Fachada\bin\Debug\Fachada.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Fachada\bin\Debug\EntityFramework.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Fachada\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Fachada\bin\Debug\PostSharp.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Fachada\bin\Debug\EntityFramework.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Fachada\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Fachada\bin\Debug\PostSharp.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Fachada\bin\Debug\Fachada.pssym
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Fachada\obj\Debug\Fachada.dll.postsharp
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Fachada\obj\Debug\Fachada.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Fachada\obj\Debug\Fachada.pdb
+C:\DengueZero\Fachada\bin\Debug\Fachada.dll.config
+C:\DengueZero\Fachada\bin\Debug\Fachada.dll
+C:\DengueZero\Fachada\bin\Debug\Fachada.pdb
+C:\DengueZero\Fachada\bin\Debug\EntityFramework.dll
+C:\DengueZero\Fachada\bin\Debug\EntityFramework.SqlServer.dll
+C:\DengueZero\Fachada\bin\Debug\PostSharp.dll
+C:\DengueZero\Fachada\bin\Debug\EntityFramework.xml
+C:\DengueZero\Fachada\bin\Debug\EntityFramework.SqlServer.xml
+C:\DengueZero\Fachada\bin\Debug\PostSharp.xml
+C:\DengueZero\Fachada\bin\Debug\Fachada.pssym
+C:\DengueZero\Fachada\obj\Debug\Fachada.dll.postsharp
+C:\DengueZero\Fachada\obj\Debug\Fachada.dll
+C:\DengueZero\Fachada\obj\Debug\Fachada.pdb
+C:\DengueZero\Fachada\obj\Debug\Fachada.csprojResolveAssemblyReference.cache

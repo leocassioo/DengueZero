@@ -1,0 +1,117 @@
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\ApplicationInsights.config
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\roslyn\csc.exe
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\roslyn\vbc.exe
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\DengueZero.dll.config
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\DengueZero.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\DengueZero.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\EntityFramework.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\EntityFramework.SqlServer.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\Microsoft.AI.Web.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\PostSharp.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\EntityFramework.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\EntityFramework.SqlServer.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\Microsoft.AI.Web.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\PostSharp.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\bin\DengueZero.pssym
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\obj\Debug\DengueZero.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\obj\Debug\DengueZero.dll.postsharp
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\obj\Debug\DengueZero.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\DengueZero\obj\Debug\DengueZero.pdb
+C:\DengueZero\DengueZero\bin\ApplicationInsights.config
+C:\DengueZero\DengueZero\bin\roslyn\csc.exe
+C:\DengueZero\DengueZero\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\DengueZero\DengueZero\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\DengueZero\DengueZero\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\DengueZero\DengueZero\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\DengueZero\DengueZero\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\DengueZero\DengueZero\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\DengueZero\DengueZero\bin\roslyn\System.Collections.Immutable.dll
+C:\DengueZero\DengueZero\bin\roslyn\System.Reflection.Metadata.dll
+C:\DengueZero\DengueZero\bin\roslyn\vbc.exe
+C:\DengueZero\DengueZero\bin\roslyn\VBCSCompiler.exe
+C:\DengueZero\DengueZero\bin\roslyn\VBCSCompiler.exe.config
+C:\DengueZero\DengueZero\bin\DengueZero.dll.config
+C:\DengueZero\DengueZero\bin\DengueZero.dll
+C:\DengueZero\DengueZero\bin\DengueZero.pdb
+C:\DengueZero\DengueZero\bin\Apresentacao.dll
+C:\DengueZero\DengueZero\bin\DispenserAplicacao.dll
+C:\DengueZero\DengueZero\bin\EntityFramework.dll
+C:\DengueZero\DengueZero\bin\EntityFramework.SqlServer.dll
+C:\DengueZero\DengueZero\bin\Enumerador.dll
+C:\DengueZero\DengueZero\bin\Excecao.dll
+C:\DengueZero\DengueZero\bin\Microsoft.AI.Agent.Intercept.dll
+C:\DengueZero\DengueZero\bin\Microsoft.AI.DependencyCollector.dll
+C:\DengueZero\DengueZero\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\DengueZero\DengueZero\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\DengueZero\DengueZero\bin\Microsoft.AI.Web.dll
+C:\DengueZero\DengueZero\bin\Microsoft.AI.WindowsServer.dll
+C:\DengueZero\DengueZero\bin\Microsoft.ApplicationInsights.dll
+C:\DengueZero\DengueZero\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DengueZero\DengueZero\bin\PostSharp.dll
+C:\DengueZero\DengueZero\bin\WebActivatorEx.dll
+C:\DengueZero\DengueZero\bin\Microsoft.Practices.Unity.dll
+C:\DengueZero\DengueZero\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\DengueZero\DengueZero\bin\System.Web.Mvc.dll
+C:\DengueZero\DengueZero\bin\Microsoft.Web.Infrastructure.dll
+C:\DengueZero\DengueZero\bin\Microsoft.Practices.ServiceLocation.dll
+C:\DengueZero\DengueZero\bin\System.Web.Razor.dll
+C:\DengueZero\DengueZero\bin\System.Web.WebPages.Razor.dll
+C:\DengueZero\DengueZero\bin\System.Web.WebPages.dll
+C:\DengueZero\DengueZero\bin\System.Web.WebPages.Deployment.dll
+C:\DengueZero\DengueZero\bin\Apresentacao.pdb
+C:\DengueZero\DengueZero\bin\DispenserAplicacao.pdb
+C:\DengueZero\DengueZero\bin\Enumerador.pdb
+C:\DengueZero\DengueZero\bin\Excecao.pdb
+C:\DengueZero\DengueZero\bin\EntityFramework.xml
+C:\DengueZero\DengueZero\bin\EntityFramework.SqlServer.xml
+C:\DengueZero\DengueZero\bin\Microsoft.AI.DependencyCollector.xml
+C:\DengueZero\DengueZero\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\DengueZero\DengueZero\bin\Microsoft.AI.Web.xml
+C:\DengueZero\DengueZero\bin\Microsoft.AI.WindowsServer.xml
+C:\DengueZero\DengueZero\bin\Microsoft.ApplicationInsights.xml
+C:\DengueZero\DengueZero\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DengueZero\DengueZero\bin\PostSharp.xml
+C:\DengueZero\DengueZero\bin\Microsoft.Practices.Unity.xml
+C:\DengueZero\DengueZero\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\DengueZero\DengueZero\bin\System.Web.Mvc.xml
+C:\DengueZero\DengueZero\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\DengueZero\DengueZero\bin\Microsoft.Practices.ServiceLocation.xml
+C:\DengueZero\DengueZero\bin\System.Web.Razor.xml
+C:\DengueZero\DengueZero\bin\System.Web.WebPages.Razor.xml
+C:\DengueZero\DengueZero\bin\System.Web.WebPages.xml
+C:\DengueZero\DengueZero\bin\System.Web.WebPages.Deployment.xml
+C:\DengueZero\DengueZero\bin\DengueZero.pssym
+C:\DengueZero\DengueZero\obj\Debug\DengueZero.csprojResolveAssemblyReference.cache
+C:\DengueZero\DengueZero\obj\Debug\DengueZero.dll.postsharp
+C:\DengueZero\DengueZero\obj\Debug\DengueZero.dll
+C:\DengueZero\DengueZero\obj\Debug\DengueZero.pdb
+C:\DengueZero\DengueZero\bin\Dados.dll
+C:\DengueZero\DengueZero\bin\Entidade.dll
+C:\DengueZero\DengueZero\bin\Criptografia.dll
+C:\DengueZero\DengueZero\bin\Dados.pdb
+C:\DengueZero\DengueZero\bin\Entidade.pdb
+C:\DengueZero\DengueZero\bin\Criptografia.pdb
+C:\DengueZero\DengueZero\bin\Negocio.dll
+C:\DengueZero\DengueZero\bin\Negocio.pdb

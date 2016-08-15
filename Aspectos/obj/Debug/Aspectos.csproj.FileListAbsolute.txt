@@ -1,0 +1,8 @@
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Aspectos\bin\Debug\Aspectos.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Aspectos\bin\Debug\Aspectos.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Aspectos\bin\Debug\PostSharp.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Aspectos\bin\Debug\PostSharp.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Aspectos\bin\Debug\Aspectos.pssym
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Aspectos\obj\Debug\Aspectos.dll.postsharp
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Aspectos\obj\Debug\Aspectos.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\DengueZero\Aspectos\obj\Debug\Aspectos.pdb
